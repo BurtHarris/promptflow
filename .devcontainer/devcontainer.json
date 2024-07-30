@@ -22,7 +22,8 @@
         "ms-toolsai.vscode-ai",
         "ms-toolsai.jupyter",
         "redhat.vscode-yaml",
-        "prompt-flow.prompt-flow"
+        "prompt-flow.prompt-flow",
+        "ms-azuretools.vscode-docker"
       ]
     }
   },
